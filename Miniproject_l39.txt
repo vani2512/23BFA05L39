@@ -50,3 +50,28 @@ int main() {
     return 0;
 }
 
+INPUT/OUTPUT:
+
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Exit
+Enter your choice: 1
+Enter the temperature: 32
+32.00 Celsius = 89.60 Fahrenheit
+
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Exit
+Enter your choice: 2
+Enter the temperature: 97
+97.00 Fahrenheit = 36.11 Celsius
+
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Exit
+Enter your choice: 3
+
+
